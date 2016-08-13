@@ -1,7 +1,7 @@
 Role Name
 =========
 
-Role sets some http proxy variables on host
+Role setup http proxy variables on host
 
 Requirements
 ------------
