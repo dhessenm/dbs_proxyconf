@@ -1,4 +1,4 @@
-Role Name
+Ansible role: dbs_proxyconf
 =========
 
 Role setup http proxy variables on host
