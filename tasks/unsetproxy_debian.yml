@@ -13,7 +13,7 @@
     - no_proxy
     - proxy
 
-- name: Configure the proxy for package manager
+- name: Unset proxy for package manager
   lineinfile:
     dest: /etc/apt/apt.conf
     regexp: '^{{ item.protocol }}'
