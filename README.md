@@ -12,9 +12,9 @@ Role Variables
 
 Available variables are listed below, along with default values:
 
-* use_proxy: false
+* use_proxy: (true or false, default: false)
 * proxy: 
-* no_proxy: 127.0.0.1,localhost
+* no_proxy: (default: 127.0.0.1,localhost)
 
 Dependencies
 ------------
